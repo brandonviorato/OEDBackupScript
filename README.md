@@ -1,1 +1,1 @@
-# OEDBackupScript
+A database backup script for OED
